@@ -60,6 +60,9 @@
     "vaul": "^0.9.9",
     "zod": "3.25.76"
   },
+  "pnpm": {
+    "onlyBuiltDependencies": ["sharp"]
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.9",
     "@types/node": "^22",
