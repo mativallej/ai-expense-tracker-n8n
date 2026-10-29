@@ -298,9 +298,9 @@
       "parameters": {
         "model": {
           "__rl": true,
-          "value": "chatgpt-4o-latest",
+          "value": "gpt-4o",
           "mode": "list",
-          "cachedResultName": "chatgpt-4o-latest"
+          "cachedResultName": "gpt-4o"
         },
         "options": {}
       },
@@ -323,9 +323,9 @@
       "parameters": {
         "model": {
           "__rl": true,
-          "value": "chatgpt-4o-latest",
+          "value": "gpt-4o",
           "mode": "list",
-          "cachedResultName": "chatgpt-4o-latest"
+          "cachedResultName": "gpt-4o"
         },
         "options": {}
       },
